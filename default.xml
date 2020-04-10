@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
- <remote fetch="" name="origin"/>
-
- <default remote="origin" revision="master"/>
- <project name="" path="" />
- <project name="" path="" />
+ <remote fetch="https://github.com/gun123kk/" name="origin"/>
+                                  
+ <default remote="origin" revision="master"/>                                                                                                                    
+ <project name="NN_homework_chapter7" path="NN_homework_chapter7/" />
+ <project name="NN_homework_chapter8" path="NN_homework_chapter8/" />
 </manifest>	
 
